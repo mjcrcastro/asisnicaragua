@@ -1,0 +1,4 @@
+  asis-email::before {
+    content: attr(data-user) "\0040 asisnicaragua.com";
+  }
+
